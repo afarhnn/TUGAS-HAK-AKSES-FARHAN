@@ -59,7 +59,7 @@
                 <div class="pt-2">
                     <button
                         type="submit"
-                        class="w-full rounded-md bg-slate-900 px-4 py-2.5 text-sm font-medium text-white hover:bg-slate-700 focus:outline-none"
+                        class="flex h-10 w-full items-center justify-center rounded-md bg-slate-900 px-4 py-2 text-sm font-medium text-white transition-colors hover:bg-slate-700 focus:outline-none cursor-pointer"
                     >
                         Login
                     </button>
